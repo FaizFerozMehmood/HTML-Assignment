@@ -1,1 +1,1 @@
-"# HTML-Assignment-SMIT" 
+"# SMIT-Assignment" 
